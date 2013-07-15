@@ -1,4 +1,31 @@
 
+/**
+ * This file is part of ip_json parser.
+ *
+ *  TmpltLib is free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  TmpltLib is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with TmpltLib.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ *  Mustafa CAMURLI - mustafacamurli@gmail.com
+ *  Sun July 14, 2013
+ */
+
+/**
+ * Author: Mustafa CAMURLI
+ * Date: Sun July 14, 2013
+ *
+ * +) Initil version of in place json parser library
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
