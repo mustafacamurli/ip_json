@@ -13,7 +13,7 @@
  *  GNU General Public License for more details.
  *
  *  You should have received a copy of the GNU General Public License
- *  along with TmpltLib.  If not, see <http://www.gnu.org/licenses/>.
+ *  along with ip_json parser.  If not, see <http://www.gnu.org/licenses/>.
  *
  *  Mustafa CAMURLI - mustafacamurli@gmail.com
  *  Sun July 14, 2013
